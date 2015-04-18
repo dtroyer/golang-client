@@ -1,5 +1,8 @@
-Golang Client
-=============
+OpenStack Golang Client
+=======================
+
+NOTE(dtroyer) Apr 2015: This repo is under heavy revision as it is being revived.
+
 stackforge/golang-client is yet another implementation of [OpenStack]
 (http://www.openstack.org/) API client in [Go language](http://golang.org).
 The code follows OpenStack licensing and borrows its infrastructure for code
@@ -17,7 +20,7 @@ Installation
 Use `go get git.openstack.org/stackforge/golang-client.git`.  Or alternatively,
 download or clone the repository.
 
-The lib was developed and tested on go 1.2. No external dependencies, so far.
+The lib was developed and tested on go 1.3. No external dependencies, so far.
 
 Examples
 --------
